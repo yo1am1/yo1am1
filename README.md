@@ -53,7 +53,7 @@ I am a Junior Python Developer from Ukraine 🇺🇦<img src="https://media.giph
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yo1am1&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yo1am1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yo1am1&hide=html&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yo1am1&hide=html&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&layout=donut)
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yo1am1&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)-->
