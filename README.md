@@ -32,7 +32,7 @@ I am a Junior Python Developer from Ukraine 🇺🇦<img src="https://media.giph
 
 - :zap: In my free time, I read tech articles and trying to create my own projects.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Profile-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/yegor-trepalin/)) [![Telegram Badge](https://img.shields.io/badge/-Chat-lightblue?style=flat&logo=Telegram&logoColor=grey)]()
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Profile-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yegor-trepalin/) [![Telegram Badge](https://img.shields.io/badge/-Chat-lightblue?style=flat&logo=Telegram&logoColor=grey)](https://t.me/yo1am)
 
 ### 🛠️ Languages and Tools :
 
