@@ -25,12 +25,12 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a Junior Python Developer from Ukraine 🇺🇦<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: I’m currently in the journey to find a job as a Python Developer.
+I am a Junior Python Developer from Ukraine <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- :telescope: I’m currently on the journey to find a job as a Python Developer.
 
 - :seedling: Currently learning Django REST Framework, Scrapping. Interested in Machine Learning.
 
-- :zap: In my free time, I read tech articles and trying to create my own projects.
+- :zap: In my free time, I am reading tech articles and trying to create my own projects.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Profile-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yegor-trepalin/) [![Telegram Badge](https://img.shields.io/badge/-Chat-lightblue?style=flat&logo=Telegram&logoColor=grey)](https://t.me/yo1am)
 
