@@ -28,7 +28,7 @@
 I am a Junior Python Developer from Ukraine <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: I’m currently on the journey to find a job as a Python Developer.
 
-- :seedling: Currently learning Django REST Framework, Scrapping. Interested in Machine Learning.
+- :seedling: Currently learning Django REST Framework and Machine Learning.
 
 - :zap: In my free time, I am reading tech articles and trying to create my own projects.
 
@@ -38,9 +38,12 @@ I am a Junior Python Developer from Ukraine <img src="https://media.giphy.com/me
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="Tensorflow" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/codecov/codecov-plain.svg" alt="Codecov" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="Amazon" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="Postgre" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" alt="Pytest" width="55" height="55"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg" alt="Heroku" width="45" height="45"/>&nbsp;
