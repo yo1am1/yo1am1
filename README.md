@@ -1,8 +1,4 @@
 <div id="header" align="center">
-  
-</div>
-
-<div id="header" align="center">
     <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="150"/>
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW5nZHlpdG56d3UxNG51M29iYXZicDEwcjJta2lqcDhrZ3M2NXVmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="350"/>
     <img src="https://media.giphy.com/media/cYU6YcPE5YlJxh6otp/giphy.gif" width="150"/>
@@ -24,54 +20,63 @@
   <img src="https://komarev.com/ghpvc/?username=yo1am1&style=flat-square&color=blue" alt="views"/>
 </div>
 
-### :man_technologist: About Me :
-I am a Junior Python Developer from Ukraine <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- 🔭 I’m currently developing my package using Python... Stay tuned to find out what it will be! 📻🚀
+## 👋 About Me  
+🚀 **AI Engineer | Python Developer**  
 
-- 📚 Currently learning FastAPI, and deepening my knowledge in Machine Learning.
+🔹 **Python Developer** with **4 years of Python expertise & 1+ year of professional experience**  
+🔹 Specializing in **LLMs, NLP, RAG chatbots, AI-driven automation, and backend development**  
+🔹 Passionate about **AI/ML, cloud-based AI solutions, and database optimizations**  
 
-- ⚡ In my free time, I read tech articles and try to create my projects.
+### 🛠️ What I Do  
+- **🧠 AI & Machine Learning:**  
+  - Developed a **company-wide RAG chatbot** handling **200+ queries daily**, improving **information retrieval & security automation**  
+  - Experience with **LangChain, Azure OpenAI, ChromaDB, TensorFlow, Keras, sklearn**  
+  - Implemented **query decomposition, self-reflection, Redis caching** for chatbot performance  
 
-- 📬 How to reach me:   [![Linkedin Badge](https://img.shields.io/badge/-Profile-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yegor-trepalin/) [![Telegram Badge](https://img.shields.io/badge/-Chat-lightblue?style=flat&logo=Telegram&logoColor=grey)](https://t.me/yo1am)
+- **⚡ Backend & API Development:**  
+  - Built **FastAPI-powered AI APIs** for internal integrations  
+  - Designed a **Monobank-integrated e-bookstore** showcasing **fintech API expertise**  
+  - Created an **Excel-like browser-based API** during **DEV Challenge XX**  
 
-### 🛠️ Languages and Tools :
+- **📊 Data & Automation:**  
+  - **Optimized SQL-based processes** for improved database efficiency  
+  - Automated workflows using **SQLAlchemy, PostgreSQL, Microsoft SQL**  
 
+- **🎯 AI Side Projects:**  
+  - Face recognition, handwritten number recognition, **sentiment analysis**  
+
+## 📚 Learning & Growth  
+✔ Completed **Hillel IT School’s Python PRO, Machine Learning & IBM AI Engineering**  
+✔ Deepening knowledge in **LLMs, AI automation, AI chatbots**  
+
+## 📬 Connect with Me  
+[![Linkedin Badge](https://img.shields.io/badge/-Profile-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yehor-trepalin/)  
+[![Telegram Badge](https://img.shields.io/badge/-Chat-lightblue?style=flat&logo=Telegram&logoColor=grey)](https://t.me/yo1am)  
+
+---
+
+## 🔥 My Tech Stack  
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="Tensorflow" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/codecov/codecov-plain.svg" alt="Codecov" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="Amazon" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="Postgre" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" alt="Pytest" width="55" height="55"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" alt="FastAPI" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-plain-wordmark.svg" alt="Docker" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="MSSQL" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="TensorFlow" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg" alt="Heroku" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/>&nbsp;
 </div>
 
-### 🔥 My Stats :
+---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yo1am1&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yo1am1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
+## 📊 GitHub Stats  
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yo1am1&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yo1am1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yo1am1&hide=html&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&layout=donut)
-
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yo1am1&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)-->
-
-<!--
-**yo1am1/yo1am1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
