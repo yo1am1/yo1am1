@@ -1,11 +1,13 @@
-<div id="header" align="center">
-    <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="150"/>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW5nZHlpdG56d3UxNG51M29iYXZicDEwcjJta2lqcDhrZ3M2NXVmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="350"/>
-    <img src="https://media.giphy.com/media/cYU6YcPE5YlJxh6otp/giphy.gif" width="150"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2b4a,100:2563eb&height=180&section=header&text=Yehor%20Trepalin&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer&descSize=20&descAlignY=75" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=LLM+Agents+%C2%B7+RAG+%2F+GraphRAG+%C2%B7+Fine-Tuning;Agentic+Workflows+%C2%B7+MCP+%C2%B7+LangGraph;From+Prototype+to+Production" alt="Typing SVG"/>
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/yegor-trepalin/">
+  <a href="https://www.linkedin.com/in/yehor-trepalin/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.discordapp.com/users/312681166086078466">
@@ -14,69 +16,59 @@
   <a href="https://t.me/yo1am">
     <img src="https://img.shields.io/badge/Telegram-chat-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-</div>
-
-<div align="center"> 
+  <br/>
   <img src="https://komarev.com/ghpvc/?username=yo1am1&style=flat-square&color=blue" alt="views"/>
 </div>
 
-## 👋 About Me  
-🚀 **AI Engineer | Python Developer**  
+## 👋 About Me
 
-🔹 **Python Developer** with **4 years of Python expertise & 1+ year of professional experience**  
-🔹 Specializing in **LLMs, NLP, RAG chatbots, AI-driven automation, and backend development**  
-🔹 Passionate about **AI/ML, cloud-based AI solutions, and database optimizations**  
+🚀 **AI Engineer — LLM Agents · RAG / GraphRAG · Fine-Tuning**
 
-### 🛠️ What I Do  
-- **🧠 AI & Machine Learning:**  
-  - Developed a **company-wide RAG chatbot** handling **200+ queries daily**, improving **information retrieval & security automation**  
-  - Experience with **LangChain, Azure OpenAI, ChromaDB, TensorFlow, Keras, sklearn**  
-  - Implemented **query decomposition, self-reflection, Redis caching** for chatbot performance  
+- 🔹 **2+ years of professional experience** taking LLM systems from prototype to **production**
+- 🔹 Currently shipping **hyper-personalization AI** at **beinf.ai**
+- 🔹 Foundation in **software engineering** (Python, FastAPI, Docker, CI/CD) + a **B.Sc. in cybersecurity** — my AI ships with **safeguards, evals, and observability**, not just prompts
 
-- **⚡ Backend & API Development:**  
-  - Built **FastAPI-powered AI APIs** for internal integrations  
-  - Designed a **Monobank-integrated e-bookstore** showcasing **fintech API expertise**  
-  - Created an **Excel-like browser-based API** during **DEV Challenge XX**  
+### 🛠️ What I Do
 
-- **📊 Data & Automation:**  
-  - **Optimized SQL-based processes** for improved database efficiency  
-  - Automated workflows using **SQLAlchemy, PostgreSQL, Microsoft SQL**  
+- 🤖 **Agentic Systems** — **LangGraph** workflows, **MCP servers & tools**, **Claude Skills**, agentic development environments, and AI automations that replace manual processes end to end. Prompt, context, harness & loop engineering.
+- 🔍 **Retrieval & Knowledge** — hybrid **RAG / CRAG / GraphRAG** (knowledge-graph traversal + vector search), **sparse + dense retrieval with reranking**, vector databases (**Pinecone, ChromaDB**), **embedding fine-tuning**.
+- 🎯 **Recommendation & Personalization** — recommendation systems with **user clustering** and **image-based search**; **Wurzelsepp**, a conversational AI shopping assistant (natural-language product discovery, hybrid retrieval core, GPU-inference resilience, multi-language); a **multimodal shopping agent** (voice + user photos → recommendations via sparse + dense retrieval + image similarity).
+- 🧪 **Model Work** — **LoRA / QLoRA** fine-tuning, GPU inference optimization & resilience (Ollama / local models), **LLM evaluation**, guardrails & model safeguards, **LangSmith** tracing.
+- ⚡ **Engineering Roots** — enterprise **RAG chatbot** at Flex handling **200+ queries daily** (query decomposition, self-reflection, Redis caching, SAML auth); **FastAPI** AI APIs, CI/CD, full testing pyramid.
 
-- **🎯 AI Side Projects:**  
-  - Face recognition, handwritten number recognition, **sentiment analysis**  
+## 📚 Learning & Growth
 
-## 📚 Learning & Growth  
-✔ Completed **Hillel IT School’s Python PRO, Machine Learning & IBM AI Engineering**  
-✔ Deepening knowledge in **LLMs, AI automation, AI chatbots**  
-
-## 📬 Connect with Me  
-[![Linkedin Badge](https://img.shields.io/badge/-Profile-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yehor-trepalin/)  
-[![Telegram Badge](https://img.shields.io/badge/-Chat-lightblue?style=flat&logo=Telegram&logoColor=grey)](https://t.me/yo1am)  
+- ✔ **AI Engineer Agentic Track: The Complete Agent & MCP Course** — Udemy, Dec 2025
+- ✔ **Machine Learning with Python (with honors)** — IBM, Jan 2025
+- ✔ **Machine Learning** — Hillel IT School, Nov 2023
+- ✔ Continuously exploring **agentic architectures, model deployment, and AI infrastructure**
 
 ---
 
-## 🔥 My Tech Stack  
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" alt="FastAPI" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-plain-wordmark.svg" alt="Docker" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="MSSQL" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="TensorFlow" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg" alt="Heroku" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/>&nbsp;
+## 🔥 Tech Stack
+
+### Core
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,docker,django,redis,postgres,azure,git,githubactions&perline=10" alt="Core tech stack"/>
+</div>
+
+### AI / LLM Tooling
+<div align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangSmith"/>
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/Unsloth-16A34A?style=for-the-badge" alt="Unsloth"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/Pinecone-0C0C0C?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge" alt="ChromaDB"/>
 </div>
 
 ---
 
-## 📊 GitHub Stats  
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yo1am1&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yo1am1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yo1am1&hide=html&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&layout=donut)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:1a2b4a&height=100&section=footer" width="100%"/>
+</div>
