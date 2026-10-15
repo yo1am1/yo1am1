@@ -1,51 +1,65 @@
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2b4a,100:2563eb&height=180&section=header&text=Yehor%20Trepalin&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer&descSize=20&descAlignY=75" width="100%"/>
+  
+```md
+╭───────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│  yo1am1@github                                                                                               zsh  │
+│                                                                                                                   │
+│  Hello, I'm Yehor.                                                                                                │
+╰───────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+```
+
 </div>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/yehor-trepalin/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.discordapp.com/users/312681166086078466">
-    <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://t.me/yo1am">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-</div>
+## `yo1am1@github:~$ whoami`
 
-## Hey, I'm Yehor 👋
+**Yehor Trepalin** · AI Engineer | Generative AI & Agentic Systems
 
-I'm an AI engineer working mostly with LLM applications, RAG, and agentic systems.
+I build LLM applications, retrieval systems, and AI agents. I'm particularly interested in the engineering that starts *after* the first demo works: getting the right context to a model, deciding which tools an agent can use, and handling failures without surprising the user.
 
-I like building things that go beyond a simple prompt and response. The interesting part for me is figuring out how agents should use tools, what context they actually need, and how to keep everything working when a model or external service doesn't behave as expected.
+I like trying things out, finding where they break, and making them a little better.
 
-I work on a conversational shopping assistant used for real product discovery. I've been building LangGraph agent workflows, hybrid retrieval with Pinecone and BGE-M3, reranking, and the backend logic around them. A lot of the work comes down to improving reliability, managing context, and avoiding unnecessary LLM calls.
+---
 
-Before that, I developed an internal RAG assistant for application-security workflows. My background in application security also influences how I think about tool permissions, testing, and failure handling.
+#### `yo1am1@github:~$ cat ~/.config/toolbox`
 
-## What I work with
+```text
+backend     Python · FastAPI · async Python · Docker
+agents      LangGraph · LangChain · OpenAI Agents SDK · MCP
+retrieval   Pinecone · Neo4j · ChromaDB · BGE-M3
+            hybrid search · reranking
+evaluation  pytest · LangSmith · MLflow
+```
 
-**Languages & backend:** Python, FastAPI, async Python, SQL, Docker
+---
 
-**LLMs & agents:** LangGraph, LangChain, OpenAI Agents SDK, MCP, LangSmith
+#### `yo1am1@github:~$ tail -f curiosity.log`
 
-**Retrieval & data:** Pinecone, Neo4j, ChromaDB, MongoDB, Redis, BGE embeddings, hybrid search, reranking
+```text
+[ACTIVE] Agent harnesses and multi-agent coding workflows
+[ACTIVE] Context engineering and long-running agents
+[ACTIVE] Automated experiments and honest evaluation
+[ACTIVE] Making LLM systems easier to test and debug
 
-**Testing & evaluation:** pytest, MLflow, LLM evaluation, integration testing
+[INFO] Giving agents more autonomy.
+[INFO] Adding more tests because of it.
 
-## What interests me lately
+[WARN] "It worked once" is not a test strategy.
+^C
+```
 
-- Building agent harnesses and multi-agent coding workflows
-- Context engineering and long-running agent execution
-- Automated experimentation and evaluation
-- Making LLM applications more reliable and easier to debug
+---
 
-I enjoy trying new approaches, seeing where they break, and figuring out whether they actually make something better.
+#### `yo1am1@github:~$ echo "$PHILOSOPHY"`
 
-Always happy to talk about AI agents, retrieval, or interesting engineering projects.
+```text
+Build something useful. See where it breaks. Make it better. Repeat.
+```
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:1a2b4a&height=100&section=footer" width="100%"/>
-</div>
+---
+
+#### `yo1am1@github:~$ exit`
+
+```text
+logout
+[Process exited with code 0]
+```
