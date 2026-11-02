@@ -11,11 +11,19 @@ I like trying things out, finding where they break, and making them a little bet
 #### `yo1am1@github:~$ cat ~/.config/toolbox`
 
 ```text
-backend     Python · FastAPI · async Python · Docker
-agents      LangGraph · LangChain · OpenAI Agents SDK · MCP
-retrieval   Pinecone · Neo4j · ChromaDB · BGE-M3
-            hybrid search · reranking
-evaluation  pytest · LangSmith · MLflow
+backend     Python · FastAPI · async Python · SQLAlchemy
+databases   PostgreSQL · MongoDB · Redis
+agents      LangGraph · LangChain · OpenAI Agents SDK
+            Claude Agent SDK · MCP · A2A · agent orchestration
+context     context engineering · compaction · structured handoffs
+retrieval   RAG · CRAG · GraphRAG · hybrid search · reranking
+            Pinecone · Qdrant · ChromaDB · Neo4j · BGE-M3
+recommend   CLIP · image search · collaborative filtering
+evaluation  pytest · LLM-as-judge · LangSmith · MLflow
+infra       Docker · RunPod · CI/CD · OpenTelemetry
+            inference failover · retries · response validation
+security    application security · SAML authentication
+learning    Rust
 ```
 
 ---
