@@ -1,6 +1,6 @@
 ## `yo1am1@github:~$ whoami`
 
-**Yehor Trepalin** · AI Engineer | Generative AI & Agentic Systems
+**Yehor Trepalin** · Applied AI Engineer | Agentic Systems, RAG & Production LLMs
 
 I build LLM applications, retrieval systems, and AI agents. I'm particularly interested in the engineering that starts *after* the first demo works: getting the right context to a model, deciding which tools an agent can use, and handling failures without surprising the user.
 
